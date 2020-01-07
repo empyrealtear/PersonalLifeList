@@ -1,20 +1,20 @@
-## **编程相关清单**
+# **编程相关清单**
 
 <!-- vim-markdown-toc GFM -->
-- [Bat       ]()
-- [DOS       ]()
-- [Vbs       ]()
-- [Android   ]()
-- [Powershell]()
-- [C         ]()
-- [C++       ]()
-- [C#        ]()
-- [Node      ]()
-- [Html      ]()
-- [JavaScript]()
-- [Python    ]()
-- [R         ]()
-- [VSCode    ]()
-- [Git       ]()
-- [ChromeEX  ]()
+- [Bat]
+- [DOS]
+- [Vbs]
+- [Android   ]
+- [Powershell]
+- [C]
+- [C++]
+- [C#]
+- [Node]
+- [Html]
+- [JavaScript]
+- [Python]
+- [R]
+- [VSCode]
+- [Git]
+- [ChromeEX]
 <!-- vim-markdown-toc -->
